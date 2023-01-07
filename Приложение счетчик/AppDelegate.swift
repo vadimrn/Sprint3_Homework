@@ -3,7 +3,6 @@
 //  Приложение счетчик
 //
 //  Created by Lala on 05.01.2023.
-//
 
 import UIKit
 
